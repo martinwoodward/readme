@@ -3,7 +3,7 @@ If you have a file at the root of your project with the name README.md, it is au
 
 # ✨ Features
 
-# 🔧 Installation & Setup
+# 🔧 Installation & Setup. 
 
 # 📦 Usage & Configuration
 
